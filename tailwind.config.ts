@@ -98,8 +98,8 @@ export default {
         shimmer: "shimmer 2s infinite linear",
       },
       boxShadow: {
-        'glow': '0 0 40px rgba(16, 185, 129, 0.15)',
-        'glow-lg': '0 0 60px rgba(16, 185, 129, 0.25)',
+        'glow': '0 0 40px rgba(59, 130, 246, 0.2)',
+        'glow-lg': '0 0 60px rgba(59, 130, 246, 0.3)',
         'card': '0 4px 20px rgba(0, 0, 0, 0.08)',
         'card-hover': '0 20px 40px rgba(0, 0, 0, 0.12)',
       },
